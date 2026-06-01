@@ -1,1 +1,1 @@
-player:Kick("Script outdaed, find new keyless version on https://discord.gg/Jt7mUkAPBp or execute this: loadstring(game:HttpGet("https://raw.githubusercontent.com/Dalkoski/Stellar/refs/heads/main/Loader"))()")
+player:Kick('Script outdaed, find new keyless version on https://discord.gg/Jt7mUkAPBp or execute this: loadstring(game:HttpGet("https://raw.githubusercontent.com/Dalkoski/Stellar/refs/heads/main/Loader"))()')
